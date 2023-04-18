@@ -4,7 +4,7 @@ from config import keys, APY_KEY
 
 
 class ConvertionException(Exception):
-    pass
+    pass 
 
 
 class CurrencyConverter:
